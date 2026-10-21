@@ -15,7 +15,7 @@ under UV resin and worn to raves.
 
 - Send the `Gerber file, CAMOutputs` folder (zipped) to any PCB fab
   (JLCPCB, PCBWay, OSH Park, ...).
-- 2-layer, any colour. 1.6 mm works; 1.0 mm flexes nicer over knuckles.
+- 2-layer, any colour. 1.6 mm works; 0.6 mm is nicer over knuckles.
 - Qty: 4 boards per finger — 20 per glove, order 40+ with spares for a pair.
 - BOM: 1× WS2812B-2020 per board (Worldsemi), nothing else.
 
